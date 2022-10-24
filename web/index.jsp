@@ -67,7 +67,6 @@
         const newrow = document.importNode(row,true)
         tbody.appendChild(newrow);
       }
-      console.log(data)
     })
   }
   x();
